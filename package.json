@@ -1,0 +1,24 @@
+{
+  "name": "github-terminal",
+  "version": "0.0.0",
+  "description": "A simple github CLI tool helps you easier to view files of repo in console.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanftIn/Github_Terminal.git"
+  },
+  "keywords": [
+    "CLI",
+    "Terminal",
+    "Github"
+  ],
+  "author": "CanftIn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CanftIn/Github_Terminal/issues"
+  },
+  "homepage": "https://github.com/CanftIn/Github_Terminal#readme"
+}
