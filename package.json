@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "A simple github CLI tool helps you easier to view files of repo in console.",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CanftIn/Github_Terminal.git"
@@ -20,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/CanftIn/Github_Terminal/issues"
   },
-  "homepage": "https://github.com/CanftIn/Github_Terminal#readme"
+  "homepage": "https://github.com/CanftIn/Github_Terminal#readme",
+  "dependencies": {
+    "atob": "^2.1.0"
+  }
 }
